@@ -14,41 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Languages and tools
-            
-            [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />]
-            
-           [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />]
-          
-           [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />]
-          
-           [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />]
-          
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-            
-            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />       
-          
-            [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />]
-          
-           [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />]
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-          
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
-            #
-          
+### Languages and tools
+
+[<img src="./html5-original-wordmark.svg" alt="HTML5 logo" />](https://www.w3schools.com/html/html5_intro.asp)
+[<img src="./css3-original.svg" alt="CSS3 logo" />](https://www.w3schools.com/css/css3_intro.asp)
+[<img src="./javascript-original.svg" alt="JavaScript logo" />](https://www.javascript.com/)
+[<img src="./nodejs-original-wordmark.svg" alt="Node.js logo" />](https://nodejs.org/)
+<img src="./php-original.svg" alt="PHP logo" />
+<img src="./react-original-wordmark.svg" alt="React logo" />
+<img src="./typescript-original.svg" alt="TypeScript logo" />
+<img src="./django-plain.svg" alt="Django logo" />
+<img src="./nextjs-original.svg" alt="Next.js logo" />
+<img src="./python-original.svg" alt="Python logo" />
+[<img src="./laravel-original.svg" alt="Laravel logo" />](https://laravel.com/)
+[<img src="./nestjs-original.svg" alt="NestJS logo" />](https://nestjs.com/)
+<img src="./mysql-original-wordmark.svg" alt="MySQL logo" />
+<img src="./postgresql-original.svg" alt="PostgreSQL logo" />
+<img src="./mongodb-original-wordmark.svg" alt="MongoDB logo" />
+<img src="./livewire-original-wordmark.svg" alt="Livewire logo" />
+
+#
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louissosthenes9&theme=dark&show_icons=true)
