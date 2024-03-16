@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hello world <br> I'm louis, 
-I'm currently working on a AI aided lms system<br><br>I'm currently learning Typescript, Azure and python<br><br>Ask me about laravel and Nextjs<br>
+Hello world!!! <br> I'm louis,<br> <br>
+I'm passionate programmer and Cloud enthusiasts <br><br>
+I'm currently working on a AI aided lms system<br><br>I'm currently learning Flutter, Azure and python<br><br>Ask me about laravel and Nextjs<br>
 
 
 ## 🌐 Socials:
