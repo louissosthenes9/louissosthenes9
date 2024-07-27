@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello world!!! <br> I'm louis,<br> <br>
 I'm a passionate fullstack developer and a Cloud enthusiasts <br><br>
-I'm currently working on a AI aided lms system<br><br>I'm currently learning Flutter, Azure and python<br><br>Ask me about laravel and Nextjs<br>
+I'm currently working on a AI aided lms system<br><br>I'm currently learning eveerything<br><br>Ask me about laravel and Nextjs<br>
 
 
 ## 🌐 Socials:
@@ -18,10 +18,13 @@ I'm currently working on a AI aided lms system<br><br>I'm currently learning Flu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=louissosthenes9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=louissosthenes9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=louissosthenes9&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=louissosthenes9&label=Profile%20views&color=0e75b6&style=flat" alt="louissosthenes9" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
