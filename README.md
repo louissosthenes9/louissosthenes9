@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello world!!! <br> I'm louis,<br> <br>
 I'm a passionate fullstack developer and a Cloud enthusiasts <br><br>
-I'm currently working on a AI aided lms system<br><br>I'm currently learning AI and Machine Learning<br><br>Ask me about laravel and Nextjs<br>
+I'm currently working on a AI aided lms system<br><br>I'm currently learning go and DevOps<br><br>Ask me about laravel and Nextjs<br>
 
 
 ## 🌐 Socials:
